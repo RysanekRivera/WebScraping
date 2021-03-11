@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebScraping</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="retrofit_scraping">Retrofit Scraping</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="jsoup">JSoup</string>
+</resources>
