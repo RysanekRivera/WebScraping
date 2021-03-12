@@ -10,7 +10,7 @@ Exploring different ways to obtain raw HTML from Websites. Initially I'll explor
  </tr>
   </table>
   
-  .table{
-  border="0"
+  .site-main table td{
+  border:0px
   }
 
