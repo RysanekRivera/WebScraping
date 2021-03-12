@@ -10,5 +10,11 @@
     <color name="transparent">#00000000</color>
     
     <color name="light_blue">#80d8ff</color>
+    <color name="light_blue_20">#3380d8ff</color>
     <color name="yellow">#ffd740</color>
+    <color name="yellow_20">#33ffd740</color>
+    
+    //System Bars
+    <color name="navigation_bar_color">#01ff5f4f</color>
+    <color name="status_bar_color">#01f7cd47</color>
 </resources>

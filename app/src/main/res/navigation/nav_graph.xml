@@ -9,5 +9,22 @@
         android:id="@+id/homeFragment"
         android:name="com.rysanek.webscraping.ui.fragments.HomeFragment"
         android:label="fragment_home"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/homeFragment_to_jSoupFragment"
+            app:destination="@id/JSoupFragment" />
+        <action
+            android:id="@+id/homeFragment_to_retrofitFragment"
+            app:destination="@id/retrofitFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/JSoupFragment"
+        android:name="com.rysanek.webscraping.ui.fragments.JSoupFragment"
+        android:label="JSoup Scraping"
+        tools:layout="@layout/fragment_jsoup"/>
+    <fragment
+        android:id="@+id/retrofitFragment"
+        android:name="com.rysanek.webscraping.ui.fragments.RetrofitFragment"
+        android:label="Retrofit Scraping"
+        tools:layout="@layout/fragment_retrofit" />
 </navigation>
