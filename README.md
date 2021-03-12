@@ -9,4 +9,8 @@ Exploring different ways to obtain raw HTML from Websites. Initially I'll explor
   <td><img src="https://github.com/RysanekRivera/WebScraping/blob/master/webscraping_3.png" width="250" height="500"></td>
  </tr>
   </table>
+  
+  .table{
+  border="0"
+  }
 
