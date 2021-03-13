@@ -3,9 +3,9 @@ Exploring different ways to obtain raw HTML from Websites. Initially I'll explor
 <br>
 <hr>
 <p>
-  <img src="https://github.com/RysanekRivera/WebScraping/blob/master/webscraping_1.png" width="250" height="500" margin="20"> 
-  <img src="https://github.com/RysanekRivera/WebScraping/blob/master/webscraping_2.png" width="250" height="500"> 
-  <img src="https://github.com/RysanekRivera/WebScraping/blob/master/webscraping_3.png" width="250" height="500">  
+  <img src="https://github.com/RysanekRivera/WebScraping/blob/master/webscraping_1.png" width="310" height="400"> 
+  <img src="https://github.com/RysanekRivera/WebScraping/blob/master/webscraping_2.png" width="310" height="400"> 
+  <img src="https://github.com/RysanekRivera/WebScraping/blob/master/webscraping_3.png" width="310" height="400">  
 </p>
 
 
