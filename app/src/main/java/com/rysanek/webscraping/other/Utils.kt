@@ -1,4 +1,4 @@
-package com.rysanek.webscraping.other
+ package com.rysanek.webscraping.other
 
 import android.app.Activity
 import android.os.Build

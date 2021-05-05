@@ -20,9 +20,7 @@
         <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay.MaterialCardView</item>
     </style>
     
-    <style name="ShapeAppearanceOverlay.MaterialCardView">
-    
-    </style>
+    <style name="ShapeAppearanceOverlay.MaterialCardView"/>
     
     <style name="CardViewStyle.Cut" parent="CardViewStyle">
         <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay.Cut</item>

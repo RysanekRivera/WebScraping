@@ -31,9 +31,9 @@ class JSoupFragment: Fragment() {
             Log.d("Result", htmlDoc.toString())
             
             withContext(Dispatchers.Main) {
-                val parsedText = htmlDoc.text()
+                val htmlText = htmlDoc.text()
                 //update UI
-                binding.tvJsoup.text = parsedText
+                binding.tvJsoup.text = htmlText
             }
         }
         return binding.root
